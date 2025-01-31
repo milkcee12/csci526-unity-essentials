@@ -1,1 +1,1 @@
-# csci526-unity-essentials
+# csci526-unity-pathways
